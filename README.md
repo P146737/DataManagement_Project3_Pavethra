@@ -1,9 +1,9 @@
 # DataManagement_Project3_Pavethra: MovieLens Analysis using Spark SQL
 
-Name: Pavethra Avadiar
-Matric Number: P146737
-Course: STQD6324
-Semester: Semester 2, 2024/2025
+* Name: Pavethra Avadiar
+* Matric Number: P146737
+* Course: STQD6324
+* Semester: Semester 2, 2024/2025
 
 # Overview
 
